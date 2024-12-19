@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Rubik", serif;
+    list-style: none;
+}
+.nav ul li{
+    font-size: 18px;
+    font-weight: 400;
+    color: #2a2c47;
+    display: flex;
+    gap: 60px;
+    text-align: center;
+    color: #363853;
+}
+
+.uli{
+    width: 1171px;
+    height: 50.41px;
+    display: flex;
+    gap: 60px;
+    margin: 0 auto;
+    text-align: center;
+    color: #363853;
+}
+#ot{
+    width: 120px;
+    height: 50.41px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.33px;
+    text-align: center;
+    background-color: #FF7A50;
+    color: white;
+    padding-top: 14px;
+    margin-top: -14px;
+    box-shadow: 0px 22px 40px 0px #FF683830;
+
+}
+.header{
+    margin: 70px 145px 0px 130px;
+}
+.text:hover{
+    color: #FF7A50;
+    transition: 0.2s;
+}
+.h111{
+    width: 530px;
+    height: 156px;
+    font-size: 66px;
+    font-weight: 500;
+    line-height: 78.21px;
+    color: #363853;
+    margin-top: 183px;
+    margin-left: 95px;
+}
+.top{
+    width: 513px;
+    height: 66px;
+    color: #363853;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 95px;
+    margin-top: 23px;
+}
+.suuu{
+    width: 163px;
+    height: 50.41px;
+    border-radius: 5px;
+    margin-left: 95px;
+    margin-top: 45px;
+    color: white;
+    background-color: #FF7A50;
+    font-size: 18px;
+    font-weight: 400;
+    border:none;
+    box-shadow: 0px 22px 50px 5px #FF683830;
+    margin-bottom: 20px;
+}
+.yt{
+    margin-left: 525px;
+    margin-top: -537px;
+}
+.h101{
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 50px;
+    width: 384px;
+    height: 100px;
+    margin-left: 755px;
+    margin-top: 238px;
+    color: #363853;
+}
+.mu{
+    width: 449px;
+    height: 103px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #595959;
+    margin-left: 755px;
+    margin-top: -405px;
+}
+.buttonbro{
+    background: #FF7A50;
+    margin-left: 755px;
+    width: 176px;
+    height: 58px;
+    border-radius: 30px 30px 1px 30px;
+    border: none;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.7px;
+    color: white;
+    box-shadow: 0px 22px 40px 0px #FF683830;
+    margin-top: 121px;
+}
+.ty{
+    margin-top: 160px;
+    margin-left: 551px;
+    font-family: Rubik;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 30px;
+}
+.birinchipizza{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #363853;
+    width: 361px;
+    height: 417px;
+    margin-left: 156px;
+    margin-top: 50px;
+    /* box-shadow: 5px 0px 10px 3px grey; */
+}
+.tt{
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30px;
+    margin-left: 50px;
+    margin-top: -34px;
+    color: #363636;
+}
+.h1ku{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 20px;
+    color: #363636;
+}
+.butonchik{
+    width: 79px;
+    height: 33px;
+    background-color: #FF7A50;
+    border: none;
+    border-radius: 30px 30px 1px 30px;
+    color: white;
+    font-size: 25px;
+    box-shadow: 0px 22px 50px 5px #FF683830;
+    margin-left: 243px;
+}
+.too{
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 50px;
+    margin-top: 250px;
+    margin-left: 176px;
+}
+.niga{
+    width: 438px;
+    height: 94px;
+    color: #595959;
+    margin-left: 176px;
+    margin-top: 30px;
+}
+.footerbro{
+    width: 1170px;
+    height: 312px;
+    margin-top: 110px;
+    background-color: #FF7A50;
+    border-radius: 15px;
+    margin-left: 132px;
+    margin-bottom: 100px;
+}
+.lastone{
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 47.4px;
+    text-align: center;
+    color: white;
+    padding-top: 59px;
+}
+.input{
+    width: 838.5px;
+    height: 78px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    margin-top: 72px;
+    margin-left: 165px;
+    border-radius: 50px;
+    border: none;
+    padding-right: 543px;
+    background-color: #fff;
+    padding-top: 24px;
+    color: #5e5e5e;
+}
+.subformore{
+    width: 191.1px;
+    height: 58.5px;
+    color: white;
+    background-color: #FF7A50;
+    border: none;
+    border-radius: 30px;
+    margin-top: -224px;
+    margin-left: 935px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: center;
+    padding-top: 15px;
+}
